@@ -37,6 +37,6 @@
 
 - I’m currently learning **Managing Enterprise Servers**
 
-<h3 align="left">In this course, I have learned how to implement what I have learned before about the Linux OS, and apply it onto this course. I have learned how to create connected servers using ssh, I have learned how to create yaml files that do system updates, installations, and the likes. I have learned how to create containers to conserve resources and still apply ansible roles and tasks. </h3>
+<body align="left">In this course, I have learned how to implement what I have learned before about the Linux OS, and apply it onto this course. I have learned how to create connected servers using ssh, I have learned how to create yaml files that do system updates, installations, and the likes. I have learned how to use ansible to make use of scripts to manage other servers with the use of ansibe and ssh. I have learned to use tags and roles to create a better filtering for tasks. I have learned how to create containers to conserve resources and still apply ansible roles and tasks. This course has taught me a lot, and I believe that it will make me a better worker in the future.</body>
 
 - 📫 How to reach me **qkgallave@tip.edu.ph**
