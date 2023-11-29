@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Final Project (CPE 232)</h1>
+<h1 align="center">Final Project (CPE 232)</h1>
 <h3 align="center">Final Project submission by Kenneth Gabriel A. Llave CPE31S4</h3>
 
 - Hands-on Activity 1 [Creating Virtual Machines](https://github.com/qkgallave/Act_1.git)
