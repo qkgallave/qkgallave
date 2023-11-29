@@ -38,7 +38,3 @@
 - I’m currently learning **Managing Enterprise Servers**
 
 - 📫 How to reach me **qkgallave@tip.edu.ph**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
