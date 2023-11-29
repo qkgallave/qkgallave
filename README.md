@@ -37,4 +37,6 @@
 
 - I’m currently learning **Managing Enterprise Servers**
 
+<h3 align="left">In this course, I have learned how to implement what I have learned before about the Linux OS, and apply it onto this course. I have learned how to create connected servers using ssh, I have learned how to create yaml files that do system updates, installations, and the likes. I have learned how to create containers to conserve resources and still apply ansible roles and tasks. </h3>
+
 - 📫 How to reach me **qkgallave@tip.edu.ph**
